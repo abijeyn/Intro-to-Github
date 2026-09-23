@@ -11,3 +11,6 @@ This repository serves as a hands-on workspace to document and test essential ve
 ## Repository Contents
 - **Documentation & Notes:** Basic guides and introductory markdown files.
 - **Code & Practice Files:** Sample scripts, assets, and project files used to simulate local repository updates and branch management.
+
+## Local Updates
+- Tested local modifications via Git Bash.
